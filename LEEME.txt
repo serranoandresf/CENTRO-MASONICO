@@ -1,0 +1,3 @@
+Sube TODO el contenido de esta carpeta a la raiz de tu repositorio de GitHub y activa Pages (Settings > Pages > Deploy from a branch > main > /root).
+El enlace abre la plataforma: usa "Probar la plataforma en modo demostracion" para recorrer todo sin servidor.
+El libro local esta en la subcarpeta libro/.
